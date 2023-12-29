@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tosky/Projects/space-colony/SpaceColony/SpaceColony/SpaceColony.csproj",
+      "projectUniqueName": "/home/tosky/Projects/Space-Colony/SpaceColony/SpaceColony/SpaceColony.csproj",
       "projectName": "SpaceColony",
-      "projectPath": "/home/tosky/Projects/space-colony/SpaceColony/SpaceColony/SpaceColony.csproj",
+      "projectPath": "/home/tosky/Projects/Space-Colony/SpaceColony/SpaceColony/SpaceColony.csproj",
       "packagesPath": "/home/tosky/.nuget/packages/",
-      "outputPath": "/home/tosky/Projects/space-colony/SpaceColony/SpaceColony/obj/",
+      "outputPath": "/home/tosky/Projects/Space-Colony/SpaceColony/SpaceColony/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tosky/.nuget/NuGet/NuGet.Config"

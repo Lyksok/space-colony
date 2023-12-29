@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cxeUWcTSkcSWRW/z621m9LcJF0D8babN2ee4nTjSlTIV0DVfIZINKIsLg3fYHdoI177qDxuzcIIfYPmgt2cKLA==",
+  "dgSpecHash": "0Xme7OYwh4prHpEqCxhhOPXOZaJer2HMq9eH+MuMPEh+O3U9rYjT2QnZK01dOI3fxT3hZN6/iPNDiEkHVEFpQg==",
   "success": true,
-  "projectFilePath": "/home/tosky/Projects/space-colony/SpaceColony/SpaceColony/SpaceColony.csproj",
+  "projectFilePath": "/home/tosky/Projects/Space-Colony/SpaceColony/SpaceColony/SpaceColony.csproj",
   "expectedPackageFiles": [
     "/home/tosky/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
